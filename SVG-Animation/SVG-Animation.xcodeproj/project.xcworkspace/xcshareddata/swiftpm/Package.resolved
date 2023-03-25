@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "svg2path?ref=iosexample.com",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kyome22/SVG2Path?ref=iosexample.com",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d6a5940ff49e898f2d91c7030b0f1766b6065ac9"
+      }
+    }
+  ],
+  "version" : 2
+}
