@@ -6,8 +6,8 @@ struct ContentView: View {
     @State private var isFilled: Bool = false
     @State private var scale: Double = 360
     
-    private let color1 = Color(UIColor.init(hex: "F88A36") ?? .orange)
-    private let color2 = Color(UIColor.init(hex: "FD2020") ?? .red)
+    private let color1 = Color(hex: "F88A36")
+    private let color2 = Color(hex: "FD2020")
     
     var body: some View {
         ZStack(alignment: .topLeading) {
